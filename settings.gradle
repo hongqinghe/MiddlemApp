@@ -1,0 +1,10 @@
+include ':app'
+
+include 'SystemModule'
+project  (':SystemModule').projectDir=new File('../SystemLib/SystemModule')
+
+include 'ViewModule'
+project  (':ViewModule').projectDir=new File('../ViewLib/ViewModule')
+
+include 'UtilsModule'
+project  (':UtilsModule').projectDir=new File('../UtilsLib/UtilsModule')
