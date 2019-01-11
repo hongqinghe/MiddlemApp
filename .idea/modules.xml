@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../BaseLib/BaseModule/BaseModule.iml" filepath="$PROJECT_DIR$/../BaseLib/BaseModule/BaseModule.iml" />
       <module fileurl="file://$PROJECT_DIR$/MiddlemApp.iml" filepath="$PROJECT_DIR$/MiddlemApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/../SystemLib/SystemModule/SystemModule.iml" filepath="$PROJECT_DIR$/../SystemLib/SystemModule/SystemModule.iml" />
       <module fileurl="file://$PROJECT_DIR$/../UtilsLib/UtilsModule/UtilsModule.iml" filepath="$PROJECT_DIR$/../UtilsLib/UtilsModule/UtilsModule.iml" />

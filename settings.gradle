@@ -8,3 +8,6 @@ project  (':ViewModule').projectDir=new File('../ViewLib/ViewModule')
 
 include 'UtilsModule'
 project  (':UtilsModule').projectDir=new File('../UtilsLib/UtilsModule')
+
+include 'BaseModule'
+project  (':BaseModule').projectDir=new File('../BaseLib/BaseModule')
