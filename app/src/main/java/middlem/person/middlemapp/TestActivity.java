@@ -1,7 +1,7 @@
 package middlem.person.middlemapp;
 
 import androidx.appcompat.app.AppCompatActivity;
-import person.middlem.viewmodule.layoutmanager.BasicUIActivity;
+import person.middlem.viewmodule.sample.BasicUISampleActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -16,6 +16,6 @@ public class TestActivity extends AppCompatActivity {
     }
 
     public void toSystemModule(View view) {
-        startActivity(new Intent(this, BasicUIActivity.class));
+        startActivity(new Intent(this, BasicUISampleActivity.class));
     }
 }
